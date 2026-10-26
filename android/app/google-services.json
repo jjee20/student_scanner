@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "176404759234",
+    "project_id": "student-scanner-5e401",
+    "storage_bucket": "student-scanner-5e401.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176404759234:android:aa6ff84363c34a3251315b",
+        "android_client_info": {
+          "package_name": "com.example.student_scanner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPCH3Kr7fpJwqgM79p3l-blENn1G_t2bM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
